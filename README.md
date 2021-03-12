@@ -42,7 +42,7 @@ Then 3 different models are implemented on the dataset to predict the salaries. 
 
 The dataset is split into training data and test data with 70% and 30% respectively. Then models are implemented and efficiency is measured with mean square error using 5 fold cross validation.
 
-Baseline model MST: 1367.123
+Baseline model MSE: 1367.123
 
 ![image](https://user-images.githubusercontent.com/22568418/110974196-4424e380-832c-11eb-8576-a92959ac1fde.png)
 
