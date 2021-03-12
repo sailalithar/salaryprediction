@@ -36,7 +36,7 @@ Similary I could see positive correlation between features jobType, degree, majo
 
 # Modeling
 
-Industry average of salaries is taken as baseline model and mean squared error is calculated to see the efficiency. It gave around 1367 value for MSE.
+Industry average of salaries is taken as baseline model and mean squared error is calculated to see the efficiency. It gave around 1367 value for MSE. Goal is to attain MSE value of atleast less than 360.
 
 Then 3 different models are implemented on the dataset to predict the salaries. Based on the EDA, removed jobId, companyId columns from dataset and also scaled yearsExperience, milesFromMetropolis columns. All other categorical variables are changed to numeric values.
 
