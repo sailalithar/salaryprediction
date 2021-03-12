@@ -1,7 +1,7 @@
 # Predicting Salary Based on Job Description
 ## Introduction
 
-For this project I have worked on predicting salaries of employees based on the job profile. In any industry we will have the job description with requirements as the job type company needs to fill, the minimum degree they are considering with any preferred major,  years of experience they are looking for and how far is the job from the nearest big city. With the above details I have implemented to estimate the salary for that position. 
+For this project I have worked on predicting salaries based on the job profile. In any industry we will have the job description with requirements as the job type company needs to fill, the minimum degree they are considering with any preferred major,  years of experience they are looking for and how far is the job from the nearest big city. With the above details I have implemented to estimate the salary for that position. 
 
 This helps both the employers and the employee to get an idea of the salary range and proceed accordingly. Instead of taking industry average salary for the job if we can predict better this helps both HR persons and managers to provide a good salary range. 
 
